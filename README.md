@@ -9,7 +9,7 @@
 > **Authors:** Aishwarya A, Prerna Awati, Nishchita N, Sonu Vaishnavi, Dr. Uday Kulkarni, Dr. Veena Hunasimarad  
 > **Institution:** School of Computer Science and Engineering, KLE Technological University, Hubballi, India
 
----![alt text](image.png)
+
 
 ## 📌 Executive Summary
 
