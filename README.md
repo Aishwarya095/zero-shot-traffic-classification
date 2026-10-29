@@ -6,10 +6,10 @@
 [![Publication](https://img.shields.io/badge/Publication-IEEE-00629B.svg)](https://ieeexplore.ieee.org/)
 
 > 📄 **IEEE Published Paper:** *Zero-Shot Traffic Classification for Unseen Applications Using Convolutional Neural Network and Word2Vec*  
-> **Authors:**  Aishwarya A, Prerna Awati, Nishchita N, Sonu Vaishnavi, Dr. Uday Kulkarni, Dr. Veena Hunasimarad  
+> **Authors:** Aishwarya A, Prerna Awati, Nishchita N, Sonu Vaishnavi, Dr. Uday Kulkarni, Dr. Veena Hunasimarad  
 > **Institution:** School of Computer Science and Engineering, KLE Technological University, Hubballi, India
 
----
+---![alt text](image.png)
 
 ## 📌 Executive Summary
 
